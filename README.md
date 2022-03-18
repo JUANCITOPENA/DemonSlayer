@@ -5,10 +5,10 @@
 
 ## Captura # 1:
 
-![](assets/imagenes/Screenshot.png)
+![](assets/images/Screenshot.png)
 
 ## Captura # 1:
 
-![](assets/imagenes/Screenshot.png)
+![](assets/images/Screenshot_1.png)
 
 " URL al Proyecto: https://juancitopena.github.io/DemonSlayer/"
