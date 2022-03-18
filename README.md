@@ -3,13 +3,14 @@
 
 "## 😀 Creacion de Interface y diseños UX-UI, con HTML, CSS, Bootstrap, Para Presentar Sitio Web Seccion-1050.
 
-- Elemento de lista 1
--HTML5
+- TECNOLOGIAS UTILIZADAS:
+
+* HTML5
 * CSS3
 * BOOTSTRAP 5
 + Font Awesome
 + GitHub
-+ 
+
 ## Captura # 1:
 
 ![](assets/images/Screenshot.png)
