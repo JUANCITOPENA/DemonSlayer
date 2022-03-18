@@ -1,7 +1,7 @@
 # DemonSlayer
 ## Pagina DemonSlayer utilizando HTML, CSS y Bootstrap
 
-"## 😀 Creacion de Interface y diseños UX-UI, con HTML, CSS, Bootstrap, Para Presentar Sitio Web Seccion-1050.
+"## 😀 Creacion de Interface y diseños UX-UI, con HTML, CSS, Bootstrap, Para Presentar Sitio Web DemonSlayer.
 
 ### TECNOLOGIAS UTILIZADAS:
 
