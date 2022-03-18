@@ -3,7 +3,7 @@
 
 "## 😀 Creacion de Interface y diseños UX-UI, con HTML, CSS, Bootstrap, Para Presentar Sitio Web Seccion-1050.
 
-- TECNOLOGIAS UTILIZADAS:
+### TECNOLOGIAS UTILIZADAS:
 
 * HTML5
 * CSS3
